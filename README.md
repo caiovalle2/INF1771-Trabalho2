@@ -1,6 +1,6 @@
 # Trabalho 2 Jogo dos animais
 
-O projeto possui 4 arquivos para o funcionamento do programa. Nos arquivos de prolog, um deles tem a regra para o salvamento das informações e o outro é o banco que gurda as informações conforme vai inserindo mais animais
+O projeto possui 2 arquivos para o funcionamento do programa. Nos arquivos de prolog, um deles tem a regra para o salvamento das informações e o outro é o banco que guarda as informações conforme vai inserindo mais animais
 ao sistema.
 
 # Funcionamento:
